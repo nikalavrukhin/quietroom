@@ -1,0 +1,2 @@
+{ "apiBase": "https://openrouter.ai/api/v1", "apiKey": "YOUR_KEY", "model": "deepseek/deepseek-chat",
+  "fallback": { "apiBase": "https://api.deepseek.com", "apiKey": "", "model": "deepseek-chat" } }

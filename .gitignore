@@ -1,0 +1,9 @@
+llm.json
+Library/
+Temp/
+Logs/
+obj/
+Builds/
+*.csproj
+*.sln
+.DS_Store
